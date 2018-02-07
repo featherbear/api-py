@@ -1,5 +1,5 @@
 ###VERSION 1.4.0.1
- - Rebased changes from version 1.4.0.0 found on (PyPi)[https://pypi.python.org/pypi/ElvantoAPI/1.4.0.0]
+ - Rebased changes from version 1.4.0.0 found on [PyPi](https://pypi.python.org/pypi/ElvantoAPI/1.4.0.0)
  - Refactored code
  - Shortened redundant code
  - Conformed string quotation marks to the same character < ' >
